@@ -1,3 +1,6 @@
+#This is a mac auto generated file which we are excluding
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
